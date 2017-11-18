@@ -1,6 +1,10 @@
 # ProImage
 React native progressive image component.
 
+<p align="center" >
+  <img src="https://media.giphy.com/media/3ohjULahSCVAliybRe/giphy.gif" >
+</p>
+
 ## Install
 
 ``` bash
