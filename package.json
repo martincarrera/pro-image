@@ -3,6 +3,18 @@
   "version": "0.0.1",
   "description": "React native image component with blurred progressive loading",
   "main": "index.js",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
+  "bugs": {
+    "url": "https://github.com/martincarrera/pro-image/issues"
+  },
+  "homepage": "https://github.com/martincarrera/pro-image",
+  "readme": "https://github.com/martincarrera/pro-image#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/martincarrera/pro-image.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -18,5 +30,5 @@
   "devDependencies": {
     "prop-types": "^15.6.0"
   },
-  "license": "ISC"
+  "license": "MIT"
 }
