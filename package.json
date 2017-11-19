@@ -1,6 +1,6 @@
 {
   "name": "pro-image",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "React native image component with blurred progressive loading",
   "main": "index.js",
   "publishConfig": {
