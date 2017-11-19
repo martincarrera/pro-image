@@ -31,10 +31,10 @@ const MyImageComponent = () =>
 |:---:|:---:|:---:|:---:|
 |image|no|-|Image to render.|
 |thumbnail|yes|null|The image to render with the same aspect ratio and the smallest resollution possible.|
-|placeholder|yes|null|Placeholder image to render if the image didn't finished loading. <br> (Note: placeholder will not show if thumbnail is not null)|
+|placeholder|yes|null|Placeholder image to render while the image is loading. <br> (Note: placeholder will not show if there's a thumbnail)|
 |resizeMode|yes|cover|[Image resize mode.](https://facebook.github.io/react-native/docs/image.html#resizemode)|
 |style|yes|{}|Styles for the image.|
-|containerStyle|yes|{}|Styles for the image wrapper (View).|
+|containerStyle|yes|{}|Styles for the image container (View).|
 |duration|yes|1000 (ms)|Time in milliseconds that the fade effects lasts.|
 
 Full example:
